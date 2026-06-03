@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" alt="RacketRun Banner" width="100%">
+  <img src="./app_screenshot.png" alt="RacketRun Screenshot" width="100%">
 </div>
 
 # RacketRun - Badminton Community & Court Booking
